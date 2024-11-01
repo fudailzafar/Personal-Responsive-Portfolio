@@ -21,7 +21,7 @@ The project is organized into the following files and folders:
 │   │   ├── style.css         # Core styling for the website
 │   │   ├── mediaqueries.css  # Responsive adjustments
 │   ├── images/               # All images for projects and portfolio content
-│   ├── js/
+│   └── js/
 │       └── script.js         # JavaScript for interactivity
 └── README.md                 # Project documentation
 ```
