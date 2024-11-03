@@ -9,6 +9,7 @@ A responsive personal portfolio website built with HTML, CSS, and JavaScript. Th
 - **Interactive Components**: Smooth transitions and interactive buttons.
 - **Project and Skills Sections**: Organized sections for displaying projects, skills, and work experience.
 - **Social Media Links**: Quick access to social profiles for enhanced networking.
+- **Dark theme**: Toggle Button for enabling dark theme.
 
 ## Project Structure
 
