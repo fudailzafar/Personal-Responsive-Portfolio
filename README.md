@@ -27,7 +27,7 @@ The project is organized into the following files and folders:
 └── README.md                 # Project documentation
 ```
 
-## Installation & Usage
+## How to Use
 
 ### 1. Clone the repository:
 
